@@ -1,13 +1,20 @@
 {
   "files": [
     ".nojekyll",
+    "cpc_ui_state.ico",
     "index.html",
+    "index.png",
+    "index.webp",
     "images/architecture.svg",
     "images/dataflow.svg",
     "images/embed_vs_launch.svg",
     "images/files.svg",
     "images/hero.svg",
     "images/startup.svg",
-    "images/themes_contact_sheet.png"
+    "images/themes_contact_sheet.png",
+    "when_artificial_intelligence_becomes_artificial_obstruction/ai_intelligence_fraud_lowercase.html",
+    "when_artificial_intelligence_becomes_artificial_obstruction/AI\u2019s Deluded Assistant Poster.png",
+    "when_artificial_intelligence_becomes_artificial_obstruction/cpc_zipper.ico",
+    "when_artificial_intelligence_becomes_artificial_obstruction/when_artificial_intelligence_becomes_artificial_obstruction.html"
   ]
 }
